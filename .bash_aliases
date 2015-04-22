@@ -1,0 +1,8 @@
+alias update='sudo apt-get update'
+alias get='sudo apt-get install'
+alias shutd='sudo shutdown -h now'
+alias reb='sudo reboot'
+alias runserver='python manage.py runserver'
+alias aenv='source env/bin/activate'
+alias cmak='clear && make'
+alias path='echo -e ${PATH//:/\\n}'
